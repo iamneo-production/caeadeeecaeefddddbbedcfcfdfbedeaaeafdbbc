@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
-import { Banner } from './components/UI/Banner/Banner';
-import  Button from './components/UI/Button/Button';
+import { Banner } from './components/UI/Banner/Banner.js';
+import  Button from './components/UI/Button/Button.js';
 
 
 const App = () => {
